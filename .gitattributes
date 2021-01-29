@@ -1,0 +1,2 @@
+airlines.arff filter=lfs diff=lfs merge=lfs -text
+covtypeNorm.arff filter=lfs diff=lfs merge=lfs -text
